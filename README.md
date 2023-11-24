@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I work at SSW https://www.ssw.com.au/people/isaac-lu
-- 🌱 I’m currently learning Azure DevOps
+- 🌱 I’m currently learning WPF,.NET CORE
 - 📫 How to reach me: @IsaacLu2018
 - 😄 Pronouns: He/him
 
